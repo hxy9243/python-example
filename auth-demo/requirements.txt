@@ -1,0 +1,8 @@
+Flask>=2.0.0
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+requests
+gunicorn
+jinja2
