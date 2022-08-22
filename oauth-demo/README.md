@@ -11,6 +11,8 @@ To start running the app, you'll need to register and configure your own app for
 https://console.cloud.google.com/apis/credentials
 https://console.cloud.google.com/apis/credentials/consent
 
+And saves `client-secret.json` to this folder.
+
 # Development
 
 To develope/test it locally, run:
